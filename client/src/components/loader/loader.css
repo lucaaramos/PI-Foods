@@ -1,0 +1,30 @@
+.center{
+    display: flex;
+    text-align: center;
+    justify-content:center ;
+    align-items: center;
+}
+.ring{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    animation: ring 2s linear infinite;
+}
+.ring:before{
+position: absolute;
+content: '';
+left: 0;
+top: 0;
+height: 100px;
+width: 100px;
+border-radius: 50%;
+}
+.spanLoader{
+    color: black;
+    font-size: 20px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    line-height: 200px;
+    animation: text 3s ease-in-out infinite;
+}

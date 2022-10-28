@@ -1,0 +1,31 @@
+.input{
+    width: 300px;
+    height: 25px;
+    border-radius: 5px;
+    font-size: 10pt;
+    /* float: left; */
+    color: #262626;
+    /* padding-left: 45px; */
+    margin-top: 5px;
+}
+.button2{
+    border: none;
+	outline: none;
+	padding: 10px 20px;
+	border-radius: 50px;
+	color: white;
+	background: linear-gradient(
+    360deg,
+    rgba(146, 81, 36, 1) 48%,
+    rgba(207, 153, 91, 0.42) 94%
+  );;
+	margin-bottom: 25px;
+    margin-top: 25px;
+	box-shadow: 0 3px 20px 0 #0000003b;
+}
+.button2:hover{
+	cursor: pointer;
+    
+    color: black;
+    
+}

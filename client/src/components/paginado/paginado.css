@@ -1,0 +1,54 @@
+.divPaginado{
+    width: 480px;
+}
+.headerPaginado{
+    display: flex;
+    justify-content: space-around;
+}
+.divPaginado ul{
+    
+    padding: 20px;
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    padding-inline-start: 0;
+    color: #ccc;
+}
+.divPaginado ul li{
+    
+    padding-bottom: 5px;
+    cursor: pointer;
+    border:  #ccc;
+    display: flex;
+    justify-content: center;
+    max-width: 27px;
+    width: 27px;
+    min-width: 27px;
+    border-radius: 100%;
+    margin: 5px
+    
+}
+.divPaginado ul li:hover{
+    color: #666;
+    border: #666;
+}
+.bottonn{
+    border: none;
+	outline: none;
+	padding: 10px 20px;
+	border-radius: 50px;
+	color: #333;
+	background: #fff;
+	margin-bottom: 50px;
+	box-shadow: 0 3px 20px 0 #0000003b;
+    
+}
+.bottonn:hover{
+    background: linear-gradient(
+    360deg,
+    rgba(146, 81, 36, 1) 48%,
+    rgba(207, 153, 91, 0.42) 94%
+  );
+  background-blend-mode: normal;
+    color: white;
+}

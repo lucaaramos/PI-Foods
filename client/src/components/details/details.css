@@ -1,0 +1,97 @@
+
+.headerDetail{
+    /* color: white;
+    display: flex;
+    justify-content: space-around;
+    padding: 5px;
+    background: url('https://img.freepik.com/foto-gratis/ingredientes-cocinar-pasta-sobre-fondo-madera_23-2147925943.jpg?w=2000');
+    height: 100px;
+    text-align: center; */
+    color: white;
+    background:linear-gradient(
+		360deg,
+		rgba(120, 50, 12, 1) 28%,
+		rgba(207, 153, 91, 0.42) 94%);
+	text-align: center;
+	width: 100%;
+	height: auto;
+	background-size: cover;
+	background-attachment: fixed;
+	position: relative;
+	overflow: hidden;
+	border-radius: 0 0 85% 85% / 30%;
+    font-family: 'Kaushan Script', cursive;
+}
+
+.divDetailInfo{
+    border: solid 15px black;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    background: radial-gradient(
+    100% 97% at 51% 50%,
+    rgba(168, 141, 128, 1) 12%,
+    rgba(87, 27, 0, 1) 84%
+  );
+  background-blend-mode: normal;
+}
+.divDetailInfo ul{
+    color: #000;
+}
+.divDetailFlex{
+    display:inline-block;
+    width: 100%;
+}
+.divDetailFlex img{
+    width: auto;
+    height: 300px;
+    border: solid 5px;
+    border-radius: 15px;
+    margin-top: 10px;
+}
+.divDetailBox{
+    border-bottom: solid 10px black;
+    
+}
+.divDetail{
+ display: flex;
+ flex-direction: column;
+ overflow: hidden;
+ background: url('https://img.freepik.com/foto-gratis/ingredientes-cocinar-pasta-sobre-fondo-madera_23-2147925943.jpg?w=2000');
+height: auto;
+}
+.divDetail b {
+    color: rgb(136, 116, 0);
+}
+.divImgDetails{
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 1800px;
+    height: 500px;
+    display: flex;
+    justify-content: space-around;
+}
+.button3{
+	color: white;
+    border: none;
+	outline: none;
+	padding: 10px 20px;
+	border-radius: 50px;
+	background: #fff;
+	margin-bottom: 50px;
+	box-shadow: 0 3px 20px 0 #0000003b;
+    margin-left: 20px;
+	background: linear-gradient(
+    360deg,
+    rgba(146, 81, 36, 1) 48%,
+    rgba(207, 153, 91, 0.42) 94%
+  );
+  background-blend-mode: normal;
+}
+.button3:hover{
+	cursor: pointer;
+	width: 200px;
+	background-color: white;
+	color: black;
+	
+}
