@@ -2,9 +2,12 @@
 
 # Individual Project - Henry Food
 
+
 <p align="right">
   <img height="200" src="./cooking.png" />
 </p>
+
+![image](https://user-images.githubusercontent.com/69743118/205781518-32ccc088-6e21-4bc2-b977-2b41bb022920.png)
 
 ## Objetivos del Proyecto
 
@@ -13,10 +16,6 @@
 - Aprender mejores prácticas.
 - Aprender y practicar el workflow de GIT.
 - Usar y practicar testing.
-
-## Horarios y Fechas
-
-El proyecto tendrá una duración máxima de tres semanas. En el caso de que completan todas las tareas antes de dicho lapso podrán avisar a su Instructor para coordinar una fecha de presentación del trabajo (DEMO).
 
 ## Comenzando
 
@@ -48,10 +47,6 @@ Versiones:
 - __react-router-dom__: 5.2.0
 - __redux__: 4.0.5
 - __react-redux__: 7.2.3
-
-Está permitido, __bajo su responsabilidad__, actualizar las dependencias a versiones más actuales.
-
-> __IMPORTANTE:__ Versiones mas actuales podrían presentar configuraciones diferentes respecto a las versiones en las que venimos trabajando durante el bootcamp.
 
 ## BoilerPlate
 
