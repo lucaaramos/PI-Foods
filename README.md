@@ -7,7 +7,7 @@
   <img height="200" src="./cooking.png" />
 </p>
 
-# Proyect Screen
+# Proyect Screens
 
 # HOME
 ![image](https://user-images.githubusercontent.com/69743118/205787755-c16156b0-764d-4fea-a761-131f72e0815e.png)
