@@ -7,7 +7,19 @@
   <img height="200" src="./cooking.png" />
 </p>
 
-![image](https://user-images.githubusercontent.com/69743118/205781518-32ccc088-6e21-4bc2-b977-2b41bb022920.png)
+# Proyect Screen
+
+# HOME
+![image](https://user-images.githubusercontent.com/69743118/205787755-c16156b0-764d-4fea-a761-131f72e0815e.png)
+
+![image](https://user-images.githubusercontent.com/69743118/205787868-6588860d-4593-45a4-9b5d-67f927bf4bbc.png)
+
+# Create Food
+![image](https://user-images.githubusercontent.com/69743118/205788102-7a85b25d-1185-40d6-8ceb-1e1b96ec574d.png)
+
+# Detail
+![image](https://user-images.githubusercontent.com/69743118/205788250-f557593f-2ed3-4c73-9283-d6c8cdfb9653.png)
+
 
 ## Objetivos del Proyecto
 
